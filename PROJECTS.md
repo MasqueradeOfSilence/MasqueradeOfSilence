@@ -22,7 +22,7 @@ COMPUTING OVERVIEW:
 
 ART OVERVIEW: 
 - 
-- **Monika Zagrobelna's I Want to Draw, How to Draw series:** Completed 
+- **Monika Zagrobelna's I Want to Draw and How to Draw series:** Completed 
 - **50 Things to Draw:** Completed
 - **Drawabox:** In Progress
 - **CtrlPaint Digital Painting 101:** In Progress 
