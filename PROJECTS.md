@@ -8,6 +8,7 @@ EDUCATION OVERVIEW:
 - **Minors, Creative Writing and Mathematics:** Completed 
 - **Death and Delila, Visual Effects and Pipeline Team:** Completed
 - **Stowaway, Visual Effects Team:** In Progress
+- **President of Theme Park Engineering and Design Club:** In Progress
 
 COMPUTING OVERVIEW: 
 - 
