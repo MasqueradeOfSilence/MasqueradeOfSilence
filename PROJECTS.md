@@ -9,6 +9,7 @@ EDUCATION OVERVIEW:
 
 COMPUTING OVERVIEW: 
 - 
+- PC Build for Gaming and Rendering: Completed 
 - Google IT Support Fundamentals Certificate: In Progress
 - Khan Academy, Review of Early Mathematics: In Progress 
 - PLC Programming I: In Progress 
