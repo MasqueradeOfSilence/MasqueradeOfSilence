@@ -3,16 +3,16 @@ Here, I will update my progress on my personal projects.
 
 EDUCATION OVERVIEW: 
 - 
-- B.S., Computer Science (Animation Emphasis): Completed
-- M.S., Computer Science: In Progress
-- Minors, Creative Writing and Mathematics: Completed 
+- **B.S., Computer Science (Animation Emphasis):** Completed
+- **M.S., Computer Science:** In Progress
+- **Minors, Creative Writing and Mathematics:** Completed 
 
 COMPUTING OVERVIEW: 
 - 
-- PC Build for Gaming and Rendering: Completed 
-- Google IT Support Fundamentals Certificate: In Progress
-- Khan Academy, Review of Early Mathematics: In Progress 
-- PLC Programming I: In Progress 
+- **PC Build for Gaming and Rendering:** Completed 
+- **Google IT Support Fundamentals Certificate:** In Progress
+- **Khan Academy, Review of Early Mathematics:** In Progress 
+- **PLC Programming I:** In Progress 
 
 ART OVERVIEW: 
 - 
