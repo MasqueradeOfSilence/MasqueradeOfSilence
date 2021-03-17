@@ -15,6 +15,7 @@ COMPUTING OVERVIEW:
 - **Google IT Support Fundamentals Certificate:** In Progress
 - **Khan Academy, Review of Early Mathematics:** In Progress 
 - **PLC Programming I:** In Progress 
+- **Cracking the Coding Interview:** In Progress
 - **Just Write Court Reporters Website Revamp:** Planned
 
 ART OVERVIEW: 
