@@ -12,7 +12,7 @@ EDUCATION OVERVIEW:
 
 COMPUTING OVERVIEW: 
 - 
-- **Portfolio Website:** Complete, but always revamping.
+- **Portfolio Website:** Completed, but always revamping.
 - **PC Build for Gaming and Rendering:** Completed 
 - **Google IT Support Fundamentals Certificate:** In Progress
 - **Khan Academy, Review of Early Mathematics:** In Progress 
