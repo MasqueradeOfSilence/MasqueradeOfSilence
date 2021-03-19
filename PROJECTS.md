@@ -18,6 +18,7 @@ COMPUTING OVERVIEW:
 - **Khan Academy, Review of Early Mathematics:** In Progress 
 - **PLC Programming I:** In Progress 
 - **Cracking the Coding Interview:** In Progress
+- **Secure Developer Certification:** In Progress
 - **Just Write Court Reporters Website Revamp:** Planned
 
 ART OVERVIEW: 
