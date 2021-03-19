@@ -5,7 +5,8 @@ EDUCATION OVERVIEW:
 - 
 - **B.S., Computer Science (Animation Emphasis):** Completed
 - **M.S., Computer Science:** In Progress
-- **Minors, Creative Writing and Mathematics:** Completed 
+- **Minor, Creative Writing:** Completed 
+- **Minor, Mathematics:** Completed
 - **Death and Delila, Visual Effects and Pipeline Team:** Completed
 - **Stowaway, Visual Effects Team:** In Progress
 - **President of Theme Park Engineering and Design Club:** Current
