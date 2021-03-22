@@ -5,7 +5,7 @@
   3. Creative writing. 
   4. Theme park design, PLC programming, and show programming. 
   5. Math and physics. 
-- 🌱 I’m currently learning visual computing and cybersecurity. 
+- 🌱 I’m currently learning visual computing, cybersecurity, and intelligent systems in my master's program. 
 - 💞️ I’m looking to collaborate on anything where I can learn as much as possible, and build great applications. Especially creative ones. 
 - 📫 How to reach me: softwaredev [at] alexanderneville [dot] com
 
