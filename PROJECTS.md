@@ -20,6 +20,7 @@ COMPUTING OVERVIEW:
 - **PLC Programming I:** In Progress 
 - **Cracking the Coding Interview:** In Progress
 - **Secure Developer Certification:** In Progress
+- **InerTia Productivity App:** In Progress
 - **Just Write Court Reporters Website Revamp:** Planned
 
 ART OVERVIEW: 
