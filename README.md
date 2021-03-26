@@ -9,6 +9,8 @@
 - 💞️ I’m looking to collaborate on anything where I can learn as much as possible, and build great applications. Especially creative ones. 
 - 📫 How to reach me: softwaredev [at] alexanderneville [dot] com
 
+Check out my learning path at [a relative link]PROJECTS.md. 
+
 <!---
 MasqueradeOfSilence/MasqueradeOfSilence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
