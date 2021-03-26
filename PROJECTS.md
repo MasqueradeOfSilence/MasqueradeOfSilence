@@ -1,7 +1,7 @@
 Here, I will update my progress on my personal projects. 
 - 
 
-EDUCATION OVERVIEW: 
+[EDUCATION OVERVIEW:](EDUCATION.md) 
 - 
 - **B.S., Computer Science (Animation Emphasis):** Completed
 - **M.S., Computer Science:** In Progress
