@@ -18,22 +18,35 @@ Here, I will update my progress on my personal projects.
 
 [COMPUTING OVERVIEW:](COMPUTING.md)
 - 
+**Projects in Software Engineering:**
 - **Portfolio Website:** Completed, but always revamping.
-- **PC Build for Gaming and Rendering:** Completed 
-- **Google IT Support Fundamentals Certificate:** In Progress
-- **Khan Academy, Review of Early Mathematics:** In Progress 
-- **PLC Programming I:** In Progress 
-- **Cracking the Coding Interview:** In Progress
-- **Secure Developer Certification:** In Progress
-- **Test-Out Ethical Hacker Pro Certification:** In Progress
 - **InerTia Productivity App:** In Progress
 - **Just Write Court Reporters Website Revamp:** Planned
+- **Secure Developer Certification:** In Progress
+
+**Projects in Computer Science:**
+- **Cracking the Coding Interview:** In Progress
+
+**Projects in Information Technology and Cybersecurity:**
+- **PC Build for Gaming and Rendering:** Completed 
+- **Google IT Support Fundamentals Certificate:** In Progress
+- **Test-Out Ethical Hacker Pro Certification:** In Progress
+
+**Projects in Mathematics:**
+- **Khan Academy, Review of Early Mathematics:** In Progress 
+
+**Projects in ECE:**
+- **PLC Programming I:** In Progress 
 
 ART OVERVIEW: 
 - 
+
+**Studies in Traditional Art:**
 - **Monika Zagrobelna's I Want to Draw and How to Draw series:** Completed 
 - **50 Things to Draw:** Completed
 - **Drawabox:** In Progress
+
+**Studies in 2D Digital Art:**
 - **CtrlPaint Digital Painting 101:** In Progress 
 
 WRITING OVERVIEW: 
