@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MasqueradeOfSilence
 - 👀 I’m interested in the following: 
-  1. All areas of computer science, I.T., cybersecurity, and computer engineering.  
+  1. All areas of computer science, I.T., cybersecurity, and electrical/computer engineering.  
   2. Computer graphics programming, animation, game/film design, VFX, and digital art. 
   3. Creative writing. 
   4. Theme park design, PLC programming, and show programming. 
