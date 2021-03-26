@@ -4,7 +4,7 @@ Here, I will update my progress on my personal projects.
 [EDUCATION OVERVIEW:](EDUCATION.md) 
 - 
 **Primary Program of Study:**
-- **B.S., Computer Science (Animation Emphasis):** Completed
+- [**B.S., Computer Science (Animation Emphasis):**](UNDERGRAD.md) Completed
 - **M.S., Computer Science:** In Progress
 
 **Minor Degrees:**
