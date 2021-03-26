@@ -3,10 +3,15 @@ Here, I will update my progress on my personal projects.
 
 [EDUCATION OVERVIEW:](EDUCATION.md) 
 - 
+**Primary Program of Study:**
 - **B.S., Computer Science (Animation Emphasis):** Completed
 - **M.S., Computer Science:** In Progress
+
+**Minor Degrees:**
 - **Minor, Creative Writing:** Completed 
 - **Minor, Mathematics:** Completed
+
+**Additional Activities:**
 - **Death and Delila, Visual Effects and Pipeline Team:** Completed
 - **Stowaway, Visual Effects Team:** In Progress
 - **President of Theme Park Engineering and Design Club:** Current
