@@ -11,7 +11,7 @@ Here, I will update my progress on my personal projects.
 - **Stowaway, Visual Effects Team:** In Progress
 - **President of Theme Park Engineering and Design Club:** Current
 
-COMPUTING OVERVIEW: 
+[COMPUTING OVERVIEW:](COMPUTING.md)
 - 
 - **Portfolio Website:** Completed, but always revamping.
 - **PC Build for Gaming and Rendering:** Completed 
