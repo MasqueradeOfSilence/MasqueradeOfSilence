@@ -5,3 +5,7 @@ Here, I will place the list of all my (relevant) formal coursework. Due to acade
 Regardless, I think it will be nice for me to have everything organized, in one place, instead of a bunch of repos sitting haphazardly on my profile. It will also provide a good way to push myself to review my labs a second time before committing them here. 
 
 I will be building this page up gradually. More to come. 
+
+# [B.S., Computer Science: Animation Emphasis](UNDERGRAD.md)
+
+I studied this from 2015 to 2019, with an additional year before that in which I completed some general education courses. 
