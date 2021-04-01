@@ -22,7 +22,7 @@ Here, I will update my progress on my personal projects.
 - **Portfolio Website:** Completed, but always revamping.
 - **InerTia Productivity App:** In Progress
 - **Just Write Court Reporters Website Revamp:** Planned
-- **Secure Developer Certification:** In Progress
+- [**Secure Developer Certification:**](SECURE_DEVELOPMENT.md) In Progress
 
 **Projects in Computer Science:**
 - **Cracking the Coding Interview:** In Progress
