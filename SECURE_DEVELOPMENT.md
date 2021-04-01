@@ -1,5 +1,7 @@
 I am currently working through the Secure Developer certification course on HackedU. 
 
+# Sections
+
 SQL Injection (Completed)
 
 Command Injection (Completed)
