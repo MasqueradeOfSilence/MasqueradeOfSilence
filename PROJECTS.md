@@ -43,6 +43,7 @@ ART OVERVIEW:
 
 **Studies in Traditional Art:**
 - **Monika Zagrobelna's I Want to Draw and How to Draw series:** Completed 
+- **Simply Drawing:** Completed
 - **50 Things to Draw:** Completed
 - **Drawabox:** In Progress
 
