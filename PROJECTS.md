@@ -19,7 +19,7 @@ Here, I will update my progress on my personal projects.
 [COMPUTING OVERVIEW:](COMPUTING.md)
 - 
 **Projects in Software Engineering:**
-- **Portfolio Website:** Completed, but always revamping.
+- [**Portfolio Website:**](https://github.com/MasqueradeOfSilence/portfolio-site) Completed, but always revamping.
 - **InerTia Productivity App:** In Progress
 - **Just Write Court Reporters Website Revamp:** Planned
 - [**Secure Developer Certification:**](SECURE_DEVELOPMENT.md) In Progress
