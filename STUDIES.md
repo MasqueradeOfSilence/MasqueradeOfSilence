@@ -57,6 +57,7 @@ For my academic coursework, please check out [ACADEMIA.md](ACADEMIA.md) (not yet
 - [ ] Web Programming
 - [X] Personal Portfolio Website ([More Information](https://github.com/MasqueradeOfSilence/portfolio-site))
 - [ ] Just Write Court Reporters Website
+- [ ] Odin Project
 
 ### App Development
 - [ ] iOS Development: SwiftUI Tutorial
