@@ -2,7 +2,7 @@
 
 This is my directory for my self-study and personal projects, organized by area of study. My goal is to develop a strong foundation in each area of computer science that I find interesting. 
 
-For my academic coursework, please check out [ACADEMIA.md](ACADEMIA.md). There will be some degree of overlap between the two, since I am using my coursework as a loose guide for my self-study. 
+For my academic coursework, please check out [ACADEMIA.md](ACADEMIA.md) (not yet uploaded). There will be some degree of overlap between the two, since I am using my coursework as a loose guide for my self-study. 
 
 ## Computer Science
 
