@@ -7,7 +7,7 @@ For my academic coursework, please check out [ACADEMIA.md](ACADEMIA.md) (not yet
 ## Computer Science
 
 ### Information Technology
-Yes, it's not technically computer science. But I want to learn it, so I'm going to. 
+*Yes, it's not technically computer science. But I want to learn it, so I'm going to.*
 - [ ] Google IT Support Fundamentals Professional Certificate
 - [ ] CompTIA: ITF+ Certificate
 - [ ] CompTIA: A+ Certificate
