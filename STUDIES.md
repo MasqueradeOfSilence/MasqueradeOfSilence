@@ -16,6 +16,7 @@ For my academic coursework, please check out [ACADEMIA.md](ACADEMIA.md) (not yet
 - [ ] Mini Homelab using Raspberry Pi: Run OpenVPN and Slack bots
 
 ### Cybersecurity
+*A natural extension of information technology.*
 - [ ] Computer Security Programming 
 - [ ] HackedU Web Application Security Certification
 - [ ] TestOut Ethical Hacker Pro Certification
