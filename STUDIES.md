@@ -42,6 +42,7 @@ For my academic coursework, please check out [ACADEMIA.md](ACADEMIA.md) (not yet
 - [ ] Feedback System Design (MIT OCW)
 - [ ] Signal Processing (MIT OCW)
 - [ ] Dynamic Systems and Control (MIT OCW)
+- [ ] I will add more to this later
 
 ### Software Engineering
 - [ ] MIT: The Missing Semester
