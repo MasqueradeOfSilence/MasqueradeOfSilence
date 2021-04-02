@@ -92,6 +92,7 @@ For my academic coursework, please check out [ACADEMIA.md](ACADEMIA.md). There w
 - [ ] IoT and Smart Home Devices
 
 ## Math and Physics
+### Math
 - [ ] Early Math
 - [ ] Arithmetic
 - [ ] Basic Geometry
@@ -110,6 +111,8 @@ For my academic coursework, please check out [ACADEMIA.md](ACADEMIA.md). There w
 - [ ] Linear Algebra
 - [ ] Calculus III
 - [ ] Differential Equations 
+
+### Physics
 - [ ] Basics of Physics (Khan Academy)
 - [ ] Physics I (MIT OCW)
 - [ ] Physics II (MIT OCW)
