@@ -53,7 +53,7 @@ This is my directory for my self-study and personal projects, organized by area 
 
 ### Web Development
 - [ ] Web Programming
-- [X] Personal Portfolio Website ([More Information](https://github.com/MasqueradeOfSilence/portfolio-site))
+- [X] Personal Portfolio Website ([More Information](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/studies/portfolio_website.md))
 - [ ] Just Write Court Reporters Website
 - [ ] Odin Project
 
