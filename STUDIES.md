@@ -58,7 +58,7 @@ This is my directory for my self-study and personal projects, organized by area 
 ### Web Development
 *Another essential extension of computer science.* 
 - [ ] Web Programming
-- [X] Personal Portfolio Website ([Details](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/studies/portfolio_website.md))
+- [X] Personal Portfolio Website ([Details](studies/code/portfolio_website.md))
 - [ ] Just Write Court Reporters Website
 - [ ] Odin Project
 
