@@ -23,9 +23,11 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] OSCP
 
 ### Automation
+*A good way to save time on tedious tasks.*
 - [ ] Google IT Automation with Python Certificate
 
 ### Computer Science Core
+*The most important of them all.*
 - [ ] Introductory Programming
 - [ ] Data Structures and Algorithms
 - [ ] Discrete Structures and Mathematics for CS
@@ -37,6 +39,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] Leetcode Practice
 
 ### ECE Core
+*Because I want to learn hardware, too, and control systems for the theme park industry.*
 - [ ] Intro to EECS via Robotics (MIT OCW)
 - [ ] Circuits and Electronics (MITx xSeries)
 - [ ] Feedback System Design (MIT OCW)
@@ -45,6 +48,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] I will add more to this later
 
 ### Software Engineering
+*A natural extension of computer science.*
 - [ ] MIT: The Missing Semester
 - [ ] QA course on Guru99
 - [ ] Software Design and Testing
@@ -52,18 +56,23 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] Cracking the Coding Interview
 
 ### Web Development
+*Another essential extension of computer science.* 
 - [ ] Web Programming
 - [X] Personal Portfolio Website ([Details](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/studies/portfolio_website.md))
 - [ ] Just Write Court Reporters Website
 - [ ] Odin Project
 
 ### App Development
+*Because I just love creating apps!*
 - [ ] iOS Development: SwiftUI Tutorial
+- [ ] Flutter tutorial
+- [ ] Android tutorial
 - [ ] InerTia Productivity App
 - [ ] Fortune Cookie App
 - [ ] TPing App
 
 ### Visual Computing
+*All the things that go along naturally with studying Computer Science: Animation Emphasis.*
 - [ ] Graphics and Image Processing
 - [ ] Graphics Programming on Scratchapixel
 - [ ] Computer Graphics
@@ -73,23 +82,37 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] Control Theory and Real-Time Rendering
 
 ### PLC Programming
+*To understanding software controls.* 
 - [ ] PLC I on Udemy
 - [ ] PLC II on Udemy
 - [ ] PLC III on Udemy
 - [ ] PLC IV on Udemy
 
-### Other Areas
+### Artificial Intelligence
+*Robots. Oh yeah.*
 - [ ] Artificial Intelligence
+- [ ] Machine Learning
+- [ ] Deep Learning
+
+### Networking
+*Network+ and CCNA will help me to understand this from the I.T. side...but what about the C.S. side?*
 - [ ] Networks
-- [ ] Operating Systems
+
+### Backend
+*Pretty much any of the backend stuff we hadn't covered yet.*
+- [ ] Operating Systems Programming
 - [ ] AWS Certified Cloud Practicioner 
-- [ ] Programming Languages
-- [ ] Compilers
 - [ ] Databases
 - [ ] Distributed Systems
 - [ ] IBM Mainframe
 
+### Further Theory of CS
+*Some other topics that I didn't think to cover originally.*
+- [ ] Programming Languages
+- [ ] Compilers
+
 ### Useful Skills
+*Just for fun!*
 - [ ] Excel Programming
 - [ ] IoT and Smart Home Devices
 
