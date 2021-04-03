@@ -179,3 +179,8 @@ For my academic coursework, please check out [ACADEMIA.md](ACADEMIA.md) (not yet
 - [ ] Animatronics 
 - [ ] Imagineering in a Box
 - [ ] CG Master Academy: Themed Environment Design
+
+## Misc. Science
+### Geology
+- [ ] Geysers of Yellowstone
+- [ ] Dino 101: Dinosaur Paleobiology
