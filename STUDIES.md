@@ -175,6 +175,7 @@ For my academic coursework, please check out [ACADEMIA.md](ACADEMIA.md) (not yet
 
 ## Theme Park Design
 ### General
+- [X] Coasters 101
 - [ ] Steve Alcorn's Theme Park Design course
 - [ ] Animatronics 
 - [ ] Imagineering in a Box
