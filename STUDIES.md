@@ -150,7 +150,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [X] Simply Drawing (by Jacqui Grantford)
 - [X] 50 Things to Draw
 - [ ] Drawabox
-- [ ] CtrlPaint: Digital Painting 101
+- [X] CtrlPaint: Digital Painting 101
 - [ ] CtrlPaint: Unplugged
 - [ ] CtrlPaint: Digital Tools
 - [ ] Digital Painting in Photoshop
