@@ -22,7 +22,7 @@ Regardless, I would still recommend this tutorial for anyone who wants to learn 
 - Everything will take you 2-3x as long as the tutorial says it will. The Apple developers are brilliant, but not very good with time estimation. 
 - Finally, don't be too concerned about trying to understand every single piece. I've struggled a lot with that in the past. However, some things simply aren't going to be understood the first time around, and if you don't realize that, you will never finish the tutorial. And do push forward until completion. At the end, you will have a really cool cross-platform (well, cross-Apple platform) application built. 
 
-I will probably reference this tutorial in the future. The Mac OS application module may especially be worth a revisit, as it is quite heavy-hitting at the end of a long tutorial series. 
+I will probably reference this tutorial in the future. The final Mac OS application module may especially be worth a revisit, as it is quite heavy-hitting at the end of a long tutorial series. 
 
 Most importantly, don't give up! 
 
