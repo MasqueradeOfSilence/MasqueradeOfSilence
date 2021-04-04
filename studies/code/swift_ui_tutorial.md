@@ -1,3 +1,5 @@
+[<< Return to STUDIES.md](../../STUDIES.md)
+
 # Swift UI Tutorial: Write-Up
 
 On April 3rd, 2021, I finished [Apple's official Swift UI tutorial series](https://developer.apple.com/tutorials/swiftui), thus fulfilling my goal of obtaining a fundamental overview of mobile app development for Apple before beginning to code my own apps with the intent of eventually launching them. 
@@ -11,7 +13,7 @@ While I really enjoyed the tutorial, I must admit that I started to lose focus t
 Regardless, I would still recommend this tutorial for anyone who wants to learn Swift and Swift UI. It is very thorough, and I am sure I will reference it as I begin to develop apps. Here are some tips:
 
 - Take the quizzes at the end of each section. If you get a question wrong, it doesn't matter much, because Apple will happily explain to you the correct solution. A fair warning, it is very easy to get mobile stuff working while glazing over the programmatic concepts that underlie mobile architecture, even when taking these quizzes. I know I struggled with that. Regardless, often the best understanding comes with time. 
-- Sometimes your previews will stop working. First, restart Xcode. If that doesn't work, check your build targets, they may be wrong. 
+- Sometimes your previews will stop working. First, restart Xcode. If that doesn't work, check your build targets; they may be wrong. 
 - If you have two classes with the same name, that are both selecting for the same build target, there will be blood. You can change the name of one of the classes, but this may lead to further build issues. It is better to ascertain that if two classes have the exact same name, they should be aimed at different build targets. I ended up doing both -- changing targets and names -- just to be on the safe side. 
 - Xcode is a powerful piece of software, but it will suck your battery life until it is an empty husk. 
 - Set deadlines. It is easy to get distracted when following a tutorial. 
