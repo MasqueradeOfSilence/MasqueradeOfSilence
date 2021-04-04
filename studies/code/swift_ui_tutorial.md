@@ -1,6 +1,6 @@
 # Swift UI Tutorial: Write-Up
 
-On April 3rd, 2021, I finished [Apple's official Swift UI tutorial series](https://developer.apple.com/tutorials/swiftui), thus fulfilling my goal of obtaining a fundamental overview of mobile app development before beginning to code my own apps with the intent of eventually launching them. 
+On April 3rd, 2021, I finished [Apple's official Swift UI tutorial series](https://developer.apple.com/tutorials/swiftui), thus fulfilling my goal of obtaining a fundamental overview of mobile app development for Apple before beginning to code my own apps with the intent of eventually launching them. 
 
 This was an interesting project, building a Landmarks app for iOS, MacOS, and watchOS. I did this tutorial in order to get a basic overview of Swift and Swift UI programming, as I have wanted to learn iPhone app development (and Apple Watch development) for a very long time. 
 
