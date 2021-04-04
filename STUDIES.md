@@ -64,9 +64,9 @@ This is my directory for my self-study and personal projects, organized by area 
 
 ### App Development
 *Because I just love creating apps!*
-- [ ] iOS Development: SwiftUI Tutorial
-- [ ] Flutter tutorial
-- [ ] Android tutorial
+- [X] iOS Development: SwiftUI Tutorial ([Details](studies/code/swift_ui_tutorial.md))
+- [ ] Flutter Development
+- [ ] Android Development
 - [ ] InerTia Productivity App
 - [ ] Fortune Cookie App
 - [ ] TPing App
