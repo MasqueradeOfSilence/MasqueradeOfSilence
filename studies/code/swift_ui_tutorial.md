@@ -1,4 +1,4 @@
-[<< Return to STUDIES.md](../../STUDIES.md/#App Development)
+[<< Return to STUDIES.md](../../STUDIES.md)
 
 # Swift UI Tutorial: Write-Up
 
