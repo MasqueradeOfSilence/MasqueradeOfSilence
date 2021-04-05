@@ -87,6 +87,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] PLC II on Udemy
 - [ ] PLC III on Udemy
 - [ ] PLC IV on Udemy
+- [ ] PLC V on Udemy
 
 ### Artificial Intelligence
 *Robots. Oh yeah.*
