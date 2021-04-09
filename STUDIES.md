@@ -180,6 +180,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] Introdution to Unity (Ray Wenderlich) 
 - [ ] Unreal Engine 4 (Ray Wenderlich)
 - [ ] Carnivile Video Game
+- [ ] Basics of Photography
 
 ## Writing
 ### Fiction
