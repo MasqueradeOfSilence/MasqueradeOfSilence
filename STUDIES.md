@@ -84,6 +84,7 @@ This is my directory for my self-study and personal projects, organized by area 
 ### PLC Programming
 *To understanding software controls.* 
 - [ ] PLC I on Udemy
+- [ ] Read "Show Networks and Control Systems"
 - [ ] PLC II on Udemy
 - [ ] PLC III on Udemy
 - [ ] PLC IV on Udemy
