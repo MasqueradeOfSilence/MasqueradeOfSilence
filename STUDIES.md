@@ -45,7 +45,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] Feedback System Design (MIT OCW)
 - [ ] Signal Processing (MIT OCW)
 - [ ] Dynamic Systems and Control (MIT OCW)
-- [ ] I will add more to this later
+- [ ] More to come: I hope to get through the entire EECS curriculum on MIT OCW within the next few years. 
 
 ### Software Engineering
 *A natural extension of computer science.*
@@ -89,6 +89,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] PLC III on Udemy
 - [ ] PLC IV on Udemy
 - [ ] PLC V on Udemy
+- [ ] Alcorn McBride Certification 
 
 ### Artificial Intelligence
 *Robots. Oh yeah.*
@@ -100,13 +101,15 @@ This is my directory for my self-study and personal projects, organized by area 
 *Network+ and CCNA will help me to understand this from the I.T. side...but what about the C.S. side?*
 - [ ] Networks
 
-### Backend
-*Pretty much any of the backend stuff we hadn't covered yet.*
+### Backend and Low-Level
+*Pretty much any of the backend and low-level stuff we hadn't covered yet.*
 - [ ] Operating Systems Programming
 - [ ] AWS Certified Cloud Practicioner 
 - [ ] Databases
 - [ ] Distributed Systems
 - [ ] IBM Mainframe
+- [ ] Embedded Systems
+- [ ] Real-Time Operating Systems
 
 ### Further Theory of CS
 *Some other topics that I didn't think to cover originally.*
