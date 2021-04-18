@@ -109,6 +109,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] Distributed Systems
 - [ ] IBM Mainframe
 - [ ] Embedded Systems
+- [ ] Firmware
 - [ ] Real-Time Operating Systems
 
 ### Further Theory of CS
