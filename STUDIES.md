@@ -45,7 +45,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] Feedback System Design (MIT OCW)
 - [ ] Signal Processing (MIT OCW)
 - [ ] Dynamic Systems and Control (MIT OCW)
-- [ ] More to come: I hope to get through the entire EECS curriculum on MIT OCW within the next few years. 
+- [ ] More to come: ([My tentative course list](https://undeadcheese.blogspot.com/2021/04/my-potential-mit-ocw-series-of-courses.html)). 
 
 ### Software Engineering
 *A natural extension of computer science.*
