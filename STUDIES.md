@@ -89,7 +89,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] PLC III on Udemy
 - [ ] PLC IV on Udemy
 - [ ] PLC V on Udemy
-- [ ] Alcorn McBride Certification 
+- [ ] Alcorn McBride Certification, or something similar 
 
 ### Artificial Intelligence
 *Robots. Oh yeah.*
