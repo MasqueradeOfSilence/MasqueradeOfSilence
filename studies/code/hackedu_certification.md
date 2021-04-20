@@ -8,3 +8,4 @@ The biggest takeaways I have are the following:
 
 # Links
 - [Repository](https://github.com/MasqueradeOfSilence/hackedu_security)
+- [Certificate](https://github.com/MasqueradeOfSilence/hackedu_security/blob/main/hackedu_certificate_sdt_masq1.pdf)
