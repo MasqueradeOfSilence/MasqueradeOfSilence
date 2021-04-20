@@ -16,7 +16,7 @@ This is my directory for my self-study and personal projects, organized by area 
 ### Cybersecurity
 *A natural extension of information technology.*
 - [ ] Computer Security Programming 
-- [ ] HackedU Web Application Security Certification
+- [X] HackedU Web Application Security Certification
 - [ ] TestOut Ethical Hacker Pro Certification
 - [ ] OverTheWire Wargames
 - [ ] Cisco CCNA
