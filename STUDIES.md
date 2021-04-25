@@ -16,7 +16,7 @@ This is my directory for my self-study and personal projects, organized by area 
 ### Cybersecurity
 *A natural extension of information technology.*
 - [ ] Computer Security Programming 
-- [X] HackedU Web Application Security Certification ([Details](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/studies/code/hackedu_certification.md))
+- [X] HackEDU Web Application Security Certification ([Details](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/studies/code/hackedu_certification.md))
 - [ ] TestOut Ethical Hacker Pro Certification
 - [ ] OverTheWire Wargames
 - [ ] Cisco CCNA
