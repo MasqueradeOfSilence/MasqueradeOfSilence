@@ -1,6 +1,6 @@
-# HackedU Certification: Write-Up
+# HackEDU Certification: Write-Up
 
-As part of my training at BYU ASG, I went through the Web Application Security training through HackedU. I found it to be very valuable and enjoyable to see security from a developer's perspective, combining the knowledge I obtained in IT 567 and CS 465 with more hands-on exercises. 
+As part of my training at BYU ASG, I went through the Web Application Security training through HackEdu. I found it to be very valuable and enjoyable to see security from a developer's perspective, combining the knowledge I obtained in IT 567 and CS 465 with more hands-on exercises. 
 
 The biggest takeaways I have are the following: 
 - Since the modules are simulated, you won't always have access to all the commands that you think you will. Stay close to the tutorial and you will be fine. 
