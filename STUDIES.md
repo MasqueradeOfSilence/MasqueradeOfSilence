@@ -175,7 +175,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] Houdini: Getting Started
 - [ ] Shader Programming
 - [ ] Houdini: Visual Effects
-- [ ] Pixar in a Box
+- [ ] Pixar in a Box ([Details](https://github.com/MasqueradeOfSilence/pixar-in-a-box))
 - [ ] 2D Animation: Basics
 - [ ] Animator's Survival Kit
 - [ ] Illuminated Pixels
