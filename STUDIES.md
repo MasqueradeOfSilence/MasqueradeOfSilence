@@ -124,7 +124,7 @@ This is my directory for my self-study and personal projects, organized by area 
 
 ## Math and Physics
 ### Math
-- [X] Early Math ([Details]())
+- [X] Early Math ([Details](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/studies/math/early_math.md))
 - [ ] Arithmetic
 - [ ] Basic Geometry
 - [ ] Pre-Algebra
