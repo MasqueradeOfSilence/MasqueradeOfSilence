@@ -1,3 +1,4 @@
+[<< Back to STUDIES.md](../../STUDIES.md)
 # HackEDU Certification: Write-Up
 
 As part of my training at BYU ASG, I went through the Web Application Security training through HackEdu. I found it to be very valuable and enjoyable to see security from a developer's perspective, combining the knowledge I obtained in IT 567 and CS 465 with more hands-on exercises. 
