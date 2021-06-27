@@ -124,7 +124,7 @@ This is my directory for my self-study and personal projects, organized by area 
 
 ## Math and Physics
 ### Math
-- [ ] Early Math
+- [X] Early Math ([Details]())
 - [ ] Arithmetic
 - [ ] Basic Geometry
 - [ ] Pre-Algebra
