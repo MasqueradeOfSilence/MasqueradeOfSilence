@@ -40,6 +40,7 @@ This is my directory for my self-study and personal projects, organized by area 
 
 ### ECE Core
 *Because I want to learn hardware, too, and control systems for the theme park industry.*
+- [ ] Art of Electronics
 - [ ] Intro to EECS via Robotics (MIT OCW)
 - [ ] Circuits and Electronics (MITx xSeries)
 - [ ] Feedback System Design (MIT OCW)
