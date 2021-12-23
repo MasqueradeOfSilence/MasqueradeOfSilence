@@ -7,6 +7,8 @@ Furthermore, at BYU ASG we use Adobe XD specifications for our design references
 
 I found the tutorial to be rather dry and dull, and I ended up watching all the videos at 1.5x speed so it was less of a drag. However, after doing this, I started to get a lot more into it, and I found it beneficial simply to spend time in the software. 
 
+The next step will be actually creating a website prototype in XD and then coding it after the design is approved. 
+
 Important things to note: 
 - Creating a rectangle will create a canvas. 
 - Not everything on my defaults was the same as the tutorial's. 
