@@ -1,7 +1,7 @@
 [<< Back to STUDIES.md](../../STUDIES.md)
 # Adobe XD Tutorial: Write-Up
 
-I was tasked to rewrite the website for my dad's website. However, I found that developing a website for a client with no design document was rather difficult. I made many attempts that I wasn't happy with. As I wanted to learn more about UI/UX prototyping tools anyway, I elected to start learning Adobe XD using their basic tutorial series [here](https://www.adobe.com/products/xd/learn/get-started.html). 
+I was tasked to rewrite my dad's website quite some time ago. However, I found that developing a website for a client with no design document was rather difficult. I made many attempts that I wasn't happy with. As I wanted to learn more about UI/UX prototyping tools anyway, I elected to start learning Adobe XD using their basic tutorial series [here](https://www.adobe.com/products/xd/learn/get-started.html). 
 
 Furthermore, at BYU ASG we use Adobe XD specifications for our design references, so I thought it certainly couldn't hurt to learn more about it. 
 
