@@ -62,7 +62,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [X] Personal Portfolio Website ([Details](studies/code/portfolio_website.md))
 - [ ] Just Write Court Reporters Website
 - [ ] Odin Project
-- [ ] Adobe XD Design/Prototyping
+- [X] Adobe XD Design/Prototyping ([Details](studies/code/adobe_xd_tutorial.md))
 
 ### App Development
 *Because I just love creating apps!*
