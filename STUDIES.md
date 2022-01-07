@@ -55,6 +55,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] Software Design and Testing
 - [ ] Clean Code
 - [ ] Cracking the Coding Interview
+- [X] GitLab Basic Tutorial ([Details](studies/code/gitlab_tutorial.md))
 
 ### Web Development
 *Another essential extension of computer science.* 
