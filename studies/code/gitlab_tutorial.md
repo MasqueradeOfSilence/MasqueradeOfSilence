@@ -7,7 +7,7 @@ I found [this tutorial](https://www.tutorialspoint.com/gitlab/index.htm) on Tuto
 
 In short, I was not particularly impressed, and I probably won't be using Tutorialspoint in the future. This tutorial was not well-written. It was good enough to remind myself of the basics, though. 
 
-I just ended up reading anything that involved setting up my own server or using a public repository (I made mine private at the beginning because the tutorial did not specify what to do, and then later found out that it would be working with public features). 
+I just ended up reading anything that involved setting up my own server or using a public repository instead of actually going through it (I made mine private at the beginning because the tutorial did not specify what to do, and then later found out that it would be working with public features). With everything else, though, I followed along. 
 
 # Links
 - [Repository (private repo, on Gitlab itself)](https://gitlab.com/alexcn711/testproject)
