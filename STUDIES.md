@@ -65,6 +65,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] Just Write Court Reporters Website
 - [ ] Odin Project
 - [X] Adobe XD Design/Prototyping ([Details](studies/code/adobe_xd_tutorial.md))
+- [ ] Flexbox Froggy: Complete
 
 ### App Development
 *Because I just love creating apps!*
