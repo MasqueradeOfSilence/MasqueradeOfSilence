@@ -57,6 +57,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [ ] Cracking the Coding Interview
 - [X] GitLab Basic Tutorial ([Details](studies/code/gitlab_tutorial.md))
 - [X] Building a CI/CD Pipeline Using Gitlab ([Details](studies/code/gitlab_ci_cd.md))
+- [ ] Docker 101 Tutorial
 
 ### Web Development
 *Another essential extension of computer science.* 
