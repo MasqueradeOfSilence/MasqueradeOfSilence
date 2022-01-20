@@ -58,6 +58,7 @@ This is my directory for my self-study and personal projects, organized by area 
 - [X] GitLab Basic Tutorial ([Details](studies/code/gitlab_tutorial.md))
 - [X] Building a CI/CD Pipeline Using Gitlab ([Details](studies/code/gitlab_ci_cd.md))
 - [X] Docker 101 Tutorial ([Details](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/studies/code/docker_101.md))
+- [ ] Container Orchestration 
 
 ### Web Development
 *Another essential extension of computer science.* 
