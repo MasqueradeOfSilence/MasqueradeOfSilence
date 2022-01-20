@@ -1,6 +1,6 @@
 # Personal Work
 
-This is my directory for my self-study and personal projects, organized by area of study. My goal is to develop a strong foundation in each area of computer science that I find interesting.   
+This is my directory for my self-study and personal projects, organized by area of study. My goal is to develop a strong foundation in each area of computer science that I find interesting. Many of these areas are also covered by my computer science coursework; however, I believe that it is prudent to review all of them regardless. 
 
 ## Computer Science
 
