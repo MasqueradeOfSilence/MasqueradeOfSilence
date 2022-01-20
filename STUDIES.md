@@ -1,6 +1,8 @@
 # Personal Work
 
-This is my directory for my self-study and personal projects, organized by area of study. My goal is to develop a strong foundation in each area of computer science that I find interesting. Many of these areas are also covered by my computer science coursework; however, I believe that it is prudent to review all of them regardless. Art and animation are a second focus of mine. While I am serious about those studies, I don't want to skimp at all on learning computer science. Full understanding and mastery of both subjects is imperative. 
+This is my directory for my self-study and personal projects, organized by area of study. My goal is to develop a strong foundation in each area of computer science that I find interesting. Many of these areas are also covered by my computer science coursework; however, I believe that it is prudent to review all of them regardless. 
+
+Art and animation are a second focus of mine. While I am serious about these more artistic studies, I don't want to skimp at all on learning computer science. Full understanding and mastery of both subjects is imperative. 
 
 ## Computer Science
 
