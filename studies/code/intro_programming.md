@@ -48,5 +48,8 @@ Adding additional functionality to the Real Estate lab.
 ## MIT OCW 6.0001
 Coming shortly.
 
+## MIT OCW 6.0002
+Coming in the near future. 
+
 # Links
 - [Repository for CS 142 (PRIVATE)](https://github.com/MasqueradeOfSilence/CS_142)
