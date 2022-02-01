@@ -19,7 +19,7 @@ Perform basic mathematical calculations.
 Basic interaction with the user via the command line. 
 
 ### Lab 4: Plinko
-Implementation of Plinko game. 
+Implementation of Plinko game. I learned about the importance of defining variables inside/outside loops in this lab. 
 
 ### Lab 5: Plinko With Functions
 Adding functions to the Plinko game from Lab 4. 
