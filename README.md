@@ -11,9 +11,8 @@
 
 Check out my work at [STUDIES.md](STUDIES.md). 
 
-BS Computer Science: Animation Emphasis, class of 2019. Minors in Creative Writing and Mathematics. 
-
-MS Computer Science, expected 2023. 
+- BS Computer Science: Animation Emphasis, class of 2019. Minors in Creative Writing and Mathematics. 
+- MS Computer Science, expected 2023. 
 
 <!---
 MasqueradeOfSilence/MasqueradeOfSilence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
