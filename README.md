@@ -11,6 +11,8 @@
 
 Check out my work at [STUDIES.md](STUDIES.md). 
 
+Formal Education: 
+
 - B.S. Computer Science: Animation Emphasis, class of 2019. Minors in Creative Writing and Mathematics. 
 - M.S. Computer Science, expected 2023. 
 
