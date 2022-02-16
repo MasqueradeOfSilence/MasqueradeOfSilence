@@ -1,7 +1,7 @@
 [<< Back to STUDIES.md](../../STUDIES.md)
 # Introduction to Computer Programming: Write-Up
 
-I did a quick review of the fundamentals of programming. At BYU, I took CS 142: Introduction to Computer Programming, a C++ course and the first coding class in the Computer Science: Animation Emphasis premajor. The second piece of this study will be Introduction to Computer Science and Programming on MIT OCW. 
+I did a quick review of the fundamentals of programming. At BYU, I took CS 142: Introduction to Computer Programming, a C++ course and the first coding class in the Computer Science: Animation Emphasis premajor. This was in Winter of 2015. The second piece of this study will be Introduction to Computer Science and Programming on MIT OCW. 
 
 ## CS 142
 I am keeping this repository private for reasons of academic honesty. Here are the labs that I did: 
