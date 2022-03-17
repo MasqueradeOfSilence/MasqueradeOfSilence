@@ -31,7 +31,7 @@ Art and animation are a second focus of mine. While I am serious about these mor
 ### Computer Science Core
 *The most important of them all.*
 - [ ] Introductory Programming ([Details](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/studies/code/intro_programming.md))
-- [ ] Data Structures and Algorithms
+- [ ] Data Structures and Algorithms ([Details](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/studies/code/data_structures_algorithms.md))
 - [ ] Discrete Structures and Mathematics for CS
 - [ ] Advanced Programming Concepts
 - [ ] Computational Theory
