@@ -130,6 +130,7 @@ Art and animation are a second focus of mine. While I am serious about these mor
 *Just for fun!*
 - [ ] Excel Programming
 - [ ] IoT and Smart Home Devices
+- [ ] MATLAB
 
 ## Math and Physics
 ### Math
