@@ -216,7 +216,7 @@ Art and animation are a second focus of mine. While I am serious about these mor
 ## Theme Park Design
 ### General
 - [X] Coasters 101
-- [ ] Steve Alcorn's Theme Park Design course
+- [X] Steve Alcorn's Theme Park Design course
 - [ ] Animatronics 
 - [ ] Imagineering in a Box
 - [ ] CG Master Academy: Themed Environment Design
