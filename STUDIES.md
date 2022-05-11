@@ -74,6 +74,7 @@ Art and animation are a second focus of mine. While I am serious about these mor
 ### App Development
 *Because I just love creating apps!*
 - [X] iOS Development: SwiftUI Tutorial ([Details](studies/code/swift_ui_tutorial.md))
+- [ ] iOS Development: Swift Tutorial
 - [ ] Flutter Development
 - [ ] Android Development
 - [ ] InerTia Productivity App
@@ -216,7 +217,7 @@ Art and animation are a second focus of mine. While I am serious about these mor
 ## Theme Park Design
 ### General
 - [X] Coasters 101
-- [X] Steve Alcorn's Theme Park Design course
+- [X] Steve Alcorn's Theme Park Design course ([Details](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/studies/tped/theme_park_design.md))
 - [ ] Animatronics 
 - [ ] Imagineering in a Box
 - [ ] CG Master Academy: Themed Environment Design
