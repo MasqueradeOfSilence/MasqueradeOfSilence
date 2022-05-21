@@ -136,7 +136,7 @@ Art and animation are a second focus of mine. While I am serious about these mor
 ## Math and Physics
 ### Math
 - [X] Early Math ([Details](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/studies/math/early_math.md))
-- [ ] Arithmetic
+- [X] Arithmetic ([Details](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/studies/math/arithmetic.md))
 - [ ] Basic Geometry
 - [ ] Pre-Algebra
 - [ ] Algebra Basics
