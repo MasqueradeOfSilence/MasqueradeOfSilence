@@ -1,6 +1,6 @@
 [<< Back to STUDIES.md](../../STUDIES.md)
 # Arithmetic: Write-Up
-On May 21st, 2022, I finished my review of Arithmetic on Khan Academy. I am planning on reviewing each topic section under Khan Academy mathematics, physics, and engineering (skipping the grade-specific ones). 
+On May 21st, 2022, I finished my review of Arithmetic on Khan Academy. I am planning on reviewing each topic section under Khan Academy mathematics, physics, and electrical engineering (skipping the grade-specific ones). 
 
 The motivation for this was to ensure that I did not have any holes in my mathematical understanding.
 
