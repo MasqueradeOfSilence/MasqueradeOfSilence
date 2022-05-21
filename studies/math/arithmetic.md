@@ -6,5 +6,9 @@ The motivation for this was to ensure that I did not have any holes in my mathem
 
 This was remarkably easy, and it took me way longer than it should have, simply due to the sheer quantity of material. I will need to advance much more quickly through the rest of Khan's curriculum. 
 
+Tips:
+
+- Watch everything at 2x speed. 
+
 # Links
 - [Repository](https://github.com/MasqueradeOfSilence/arithmetic)
