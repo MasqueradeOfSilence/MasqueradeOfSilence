@@ -1,20 +1,8 @@
-- 👋 Hi, I’m @MasqueradeOfSilence
-- 👀 I’m interested in the following: 
-  1. All areas of computer science, I.T., cybersecurity, and electrical/computer engineering.  
-  2. Computer graphics programming, animation, game/film design, VFX, and digital art. 
-  3. Creative writing. 
-  4. Theme park design, PLC programming, and show programming. 
-  5. Math and physics. 
-- 🌱 I’m currently learning visual computing, cybersecurity, and intelligent systems in my master's program. 
-- 💞️ I’m looking to collaborate on anything where I can learn as much as possible, and build great applications. Especially creative ones. 
-- 📫 How to reach me: softwaredev [at] alexanderneville [dot] com
+Computer graphics programmer, with strong secondary interests in cybersecurity and PLCs. I majored in Computer Science with an emphasis in Animation, and double minored in Creative Writing and Mathematics.
 
-Check out my work at [STUDIES.md](STUDIES.md). 
+I am currently working towards my master's degree in Computer Science. My primary research interest is computational fluid simulation.
 
-Formal Education: 
-
-- B.S. Computer Science: Animation Emphasis, class of 2019. Minors in Creative Writing and Mathematics. 
-- M.S. Computer Science, focusing on fluid simulation, expected 2023. 
+I have worked in software engineering, web development, mobile app development, visual effects, networking and tech support, and computer science research.
 
 <!---
 MasqueradeOfSilence/MasqueradeOfSilence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
