@@ -4,7 +4,7 @@ I am currently working towards my master's degree in Computer Science. My primar
 
 I have worked in software engineering, web development, mobile app development, visual effects, networking and tech support, and computer science research.
 
-I am the president of the Theme Park Engineering and Design club at my university. 
+I am the president of the Theme Park Engineering and Design club at my university. I have also worked in visual effects on three student films.
 
 <!---
 MasqueradeOfSilence/MasqueradeOfSilence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
