@@ -14,7 +14,7 @@ Check out my work at [STUDIES.md](STUDIES.md).
 Formal Education: 
 
 - B.S. Computer Science: Animation Emphasis, class of 2019. Minors in Creative Writing and Mathematics. 
-- M.S. Computer Science, expected 2023. 
+- M.S. Computer Science, focusing on fluid simulation, expected 2023. 
 
 <!---
 MasqueradeOfSilence/MasqueradeOfSilence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
