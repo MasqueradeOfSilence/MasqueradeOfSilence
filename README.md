@@ -4,6 +4,8 @@ I am currently working towards my master's degree in Computer Science. My primar
 
 I have worked in software engineering, web development, mobile app development, visual effects, networking and tech support, and computer science research.
 
+I am the president of the Theme Park Engineering and Design club at my university. 
+
 <!---
 MasqueradeOfSilence/MasqueradeOfSilence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
