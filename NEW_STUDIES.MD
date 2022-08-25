@@ -16,5 +16,8 @@ This page will track my learning progress. My goal is to maximize my professiona
 - M.S., Computer Science. 
 
 ## Learning, Phase 1: Core Competency
+*The goal of this section is to complete a sequence of courses, projects, and certifications that will solidify my fundamental skills in the above areas.*
 
 ## Learning, Phase 2: Advanced
+
+*This section will mostly be a list of potential ideas of what to study, to be better organized once phase 1 is complete.*
