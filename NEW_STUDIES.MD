@@ -18,7 +18,7 @@ I will use a Google Sheet and a Trello board to organize the minutia of my proce
 - M.S., Computer Science. 
 
 ## Learning, Phase 1: Core Competency
-*The goal of this section is to complete a sequence of courses, projects, and certifications that will solidify my fundamental skills in the above areas.*
+*The goal of this section is to complete a sequence of courses, projects, and certifications that will solidify my fundamental skills in the listed areas.*
 
 ## Learning, Phase 2: Advanced
 
