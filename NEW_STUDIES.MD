@@ -15,6 +15,6 @@ This page will track my learning progress. My goal is to maximize my professiona
 - Minors in Creative Writing and Mathematics.
 - M.S., Computer Science. 
 
-## Self-Study, Phase 1: Core Competency
+## Learning, Phase 1: Core Competency
 
-## Self-Study, Phase 2: Advanced
+## Learning, Phase 2: Advanced
