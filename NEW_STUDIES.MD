@@ -1,6 +1,6 @@
 # My Education
 
-This page will track my computer science education, plus my other focus areas: animation and writing. My goal is to maximize my professional skills in 6 main areas:
+This page will track my learning progress. My goal is to maximize my professional skills in 6 main areas:
 
 1. Computer science and software development
 2. Animation, digital art, and computer graphics programming
@@ -15,5 +15,6 @@ This page will track my computer science education, plus my other focus areas: a
 - Minors in Creative Writing and Mathematics.
 - M.S., Computer Science. 
 
-## Self-Study
+## Self-Study, Phase 1: Core Competency
 
+## Self-Study, Phase 2: Advanced
