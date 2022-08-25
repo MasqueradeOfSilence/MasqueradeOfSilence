@@ -9,6 +9,8 @@ This page will track my learning progress. My goal is to maximize my professiona
 5. Cybersecurity
 6. Creative writing
 
+I will use a Google Sheet and a Trello board to organize the minutia of my process.
+
 ## Formal Education
 
 - B.S., Computer Science: Animation Emphasis.
