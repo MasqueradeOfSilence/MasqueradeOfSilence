@@ -8,15 +8,14 @@ I have worked in software engineering, web development, mobile app development, 
 
 I am the president of the Theme Park Engineering and Design club at my university. I have also worked in visual effects on three student films.
 
-# Personal Work
+# Personal Work and Project List
 
 - [Short-term list](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/NEW_STUDIES.MD)
 - [Long-term list](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/STUDIES.md)
 
-# Links
+# Other Links
 
 - [Link to my raytracer](https://github.com/MasqueradeOfSilence/raytracer-655) 
-
 - [Portfolio site](https://www.alexanderneville.com/portfolio/)
 
 <!---
