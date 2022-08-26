@@ -11,7 +11,7 @@ This page will track my learning progress. My goal is to maximize my professiona
 
 I will use a Google Sheet and a Trello board to organize the minutia of my process.
 
-I do still plan on following the full sequence referenced on [STUDIES.MD](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/STUDIES.md), but I decided to divide it up into 2 sections so as to be better organized, and figure out what I should accomplish within the next 6 months or so. 
+I do still plan on following the full sequence referenced on [STUDIES.MD](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/STUDIES.md), and will be updating the page accordingly, but I decided to divide it up into 2 sections so as to be better organized, and figure out what I should accomplish within the next 6 months or so. 
 
 ## Formal Education
 
