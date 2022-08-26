@@ -42,6 +42,11 @@ This is a shortened, simplified version of what's on [STUDIES.md](https://github
 - [ ] Embedded Artistry for beginners [here](https://embeddedartistry.com/beginners/)
 - [ ] PLC II through V on Udemy
 
+
+### Math and Physics
+
+### Animation
+
 ## Learning, Phase 2: Advanced
 
 *This section will mostly be a list of potential ideas of what to study, to be better organized once phase 1 is complete.*
