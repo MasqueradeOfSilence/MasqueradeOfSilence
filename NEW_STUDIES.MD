@@ -18,7 +18,7 @@ This is a shortened, simplified version of what's on [STUDIES.md](https://github
 - [ ] QA Review [on Krusche](https://kruschecompany.com/quality-assurance-in-projects/)
 - [ ] Web Dev Review: CSS [on Flexbox Froggy](https://flexboxfroggy.com/)
 - [ ] Code Fluid Solver in preparation for master's thesis using [this](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac), [this](https://jamie-wong.com/2016/08/05/webgl-fluid-simulation/), and [this](https://cg.informatik.uni-freiburg.de/intern/seminar/gridFluids_fluid_flow_for_the_rest_of_us.pdf). 
-- [ ] Game Development (Unity and Unreal) on Ray Wenderlich
+- [ ] Game Development: [Unity](https://www.raywenderlich.com/gametech/paths/learn) and [Unreal](https://www.raywenderlich.com/31800833-unreal-engine-5-tutorial-for-beginners-getting-started)
 - [ ] App Development: iOS, Android, Flutter
 - [ ] IOT Programming Review using [Google CodeLabs](https://codelabs.developers.google.com/)
 - [ ] AWS Certified Cloud Practitioner [here](https://aws.amazon.com/certification/certified-cloud-practitioner/)
