@@ -11,6 +11,8 @@ This page will track my learning progress. My goal is to maximize my professiona
 
 I will use a Google Sheet and a Trello board to organize the minutia of my process.
 
+I do still plan on following the full sequence referenced on [STUDIES.MD](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/STUDIES.md), but I decided to divide it up into 2 sections so as to be better organized, and figure out what I should accomplish within the next 6 months or so. 
+
 ## Formal Education
 
 - B.S., Computer Science: Animation Emphasis.
@@ -23,3 +25,5 @@ I will use a Google Sheet and a Trello board to organize the minutia of my proce
 ## Learning, Phase 2: Advanced
 
 *This section will mostly be a list of potential ideas of what to study, to be better organized once phase 1 is complete.*
+
+- Everything on [STUDIES.md](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/STUDIES.md) that I haven't yet done. 
