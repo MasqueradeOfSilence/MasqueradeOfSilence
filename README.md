@@ -1,6 +1,6 @@
 # Intro
 
-Computer graphics programmer, with strong secondary interests in cybersecurity and PLCs. I majored in Computer Science with an emphasis in Animation, and double minored in Creative Writing and Mathematics.
+Computer graphics programmer, with strong secondary interests in cybersecurity and themed entertainment technology (i.e. PLCs and show control). I majored in Computer Science with an emphasis in Animation, and double minored in Creative Writing and Mathematics.
 
 I am currently working towards my master's degree in Computer Science. My primary research interest is computational fluid simulation.
 
