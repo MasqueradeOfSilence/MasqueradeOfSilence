@@ -34,6 +34,7 @@ This is a shortened, simplified version of what's on [STUDIES.md](https://github
 - [ ] CompTIA: Security+ Certificate
 - [ ] Bandit Wargames [here](https://overthewire.org/wargames/bandit/)
 - [ ] Next step is probably CTFs based on [this guide](https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition/)
+- [ ] Cryptography Studies
 
 ### PLCs and Embedded Systems
 
@@ -45,6 +46,10 @@ This is a shortened, simplified version of what's on [STUDIES.md](https://github
 
 ### Math and Physics
 
+- [ ] Khan Academy math (Topics)
+- [ ] Khan Academy physics and astronomy
+- [ ] Khan Academy electrical engineering
+
 ### Animation
 
 ## Learning, Phase 2: Advanced
@@ -52,3 +57,4 @@ This is a shortened, simplified version of what's on [STUDIES.md](https://github
 *This section will mostly be a list of potential ideas of what to study, to be better organized once phase 1 is complete.*
 
 - Everything on [STUDIES.md](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/STUDIES.md) that I haven't yet done. 
+- In this phase, I plan to actually start creating my own apps and video games. 
