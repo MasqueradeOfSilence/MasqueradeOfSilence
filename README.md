@@ -16,9 +16,7 @@ I am the president of the Theme Park Engineering and Design club at my universit
 
 # Personal Work and Project List
 
-- I am currently reworking this. Below lists to be modified or replaced.
-- [Short-term list](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/NEW_STUDIES.MD)
-- [Long-term list](https://github.com/MasqueradeOfSilence/MasqueradeOfSilence/blob/main/STUDIES.md)
+- I am currently reworking this. 
 
 # Other Links
 
