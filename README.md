@@ -10,7 +10,7 @@ I am the president of the Theme Park Engineering and Design club at my universit
 
 # Current progress in M.S. 
 
-- Goal is to finish in 2023, ideally between May and October. 
+- Goal is to finish in 2023, with a soft deadline of May (and a hard deadline of October). 
 - Currently coding a fluid solver 
 - I plan on coding something with MPM foam, possibly soap bubbles, after that.
 
