@@ -10,9 +10,9 @@ I am the president of the Theme Park Engineering and Design club at my universit
 
 # Current progress in M.S. 
 
-- Goal is to finish in 2023, with a soft deadline of May (and a hard deadline of October). 
-- Currently coding a fluid solver 
-- I plan on coding something with MPM foam, possibly soap bubbles, after that.
+- Goal is to finish in 2023, ideally by April. 
+- Implemented a fluid solver using the Marker and Cell Method.  
+- I am currently implementing a second fluid solver in MLS-MPM using NiallTL's Incremental MPM tutorial, and will then explore applications of the MLS-MPM method to low-density foam. 
 
 # Personal Work and Project List
 
