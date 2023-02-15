@@ -12,7 +12,8 @@ I am the president of the Theme Park Engineering and Design club at my universit
 
 - Goal is to finish in 2023, ideally by April. 
 - Implemented a fluid solver using the Marker and Cell Method.  
-- I am currently implementing a second fluid solver using MLS-MPM in Unity using NiallTL's Incremental MPM tutorial, and will then explore applications of the MLS-MPM method to low-density foam. 
+- Implemented a second fluid solver using MLS-MPM in Unity using NiallTL's Incremental MPM tutorial.
+- Now exploring applications of the MLS-MPM method to low-density foam. 
 
 # Personal Work and Project List
 
