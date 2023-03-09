@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T18:38:30.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="eri0zhdE49W5ZZt90UqV" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T18:40:39.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="se9VP7BguTbwVQ_J1_3D" version="21.0.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="793" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CUlQ0DefaD_lUuv8uN2p-161" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="244" y="1630" width="646.6666666666666" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="56" value="Digital Art: Illustration and Animation" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;spacingBottom=8;spacingRight=0;spacingLeft=83;" parent="1" vertex="1">
           <mxGeometry x="154" y="850.5" width="2030" height="49.5" as="geometry" />
         </mxCell>
@@ -38,7 +41,7 @@
           <mxGeometry x="204" y="1430.5" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="67" value="Animation" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="154" y="1430.5" width="50" height="200" as="geometry" />
+          <mxGeometry x="154" y="1430.5" width="50" height="299.5" as="geometry" />
         </mxCell>
         <mxCell id="68" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="244" y="930.5" width="646.6666666666666" height="100" as="geometry" />
@@ -150,7 +153,7 @@
         <mxCell id="100" value="Digital Painting IV" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1161.4149659863945" y="1255.5" width="127" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="101" value="" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="101" value="3D Animation" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1161.4149659863945" y="1555.5" width="127" height="50" as="geometry" />
         </mxCell>
         <mxCell id="102" value="Intermediate 3D Art" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
@@ -400,7 +403,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CUlQ0DefaD_lUuv8uN2p-154" value="Intro to Shaders" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280.00374149659865" y="1555.5" width="127" height="50" as="geometry" />
+          <mxGeometry x="290.00374149659865" y="1655.5" width="127" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CUlQ0DefaD_lUuv8uN2p-155" value="Intro to 3D Art" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="690.0037414965986" y="1455.5" width="127" height="50" as="geometry" />
@@ -409,10 +412,13 @@
           <mxGeometry x="940.2537414965986" y="1555.5" width="127" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CUlQ0DefaD_lUuv8uN2p-158" value="Computer Graphics I" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470.00374149659865" y="1555.5" width="127" height="50" as="geometry" />
+          <mxGeometry x="478.3537414965987" y="1654" width="127" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CUlQ0DefaD_lUuv8uN2p-159" value="Computter Graphics II" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680.0037414965986" y="1555.5" width="127" height="50" as="geometry" />
+        <mxCell id="CUlQ0DefaD_lUuv8uN2p-159" value="Computer Graphics II" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690.0037414965986" y="1654" width="127" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CUlQ0DefaD_lUuv8uN2p-160" value="CG Code" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="204" y="1630.5" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
