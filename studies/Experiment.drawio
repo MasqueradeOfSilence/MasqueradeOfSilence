@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T18:45:08.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="7hurty4uewGl5dX5uoRF" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T18:46:38.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FfA5hATSFL1A1JzL2HDj" version="21.0.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="793" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CUlQ0DefaD_lUuv8uN2p-166" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="891" y="1629" width="646.6666666666666" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="CUlQ0DefaD_lUuv8uN2p-161" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="244" y="1630" width="646.6666666666666" height="100" as="geometry" />
         </mxCell>
@@ -415,7 +418,7 @@
           <mxGeometry x="690.0037414965986" y="1654" width="127" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CUlQ0DefaD_lUuv8uN2p-159" value="Computer Graphics II" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="990.0037414965986" y="1655.5" width="127" height="50" as="geometry" />
+          <mxGeometry x="940.2537414965986" y="1655.5" width="127" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CUlQ0DefaD_lUuv8uN2p-160" value="CG Code" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="204" y="1630.5" width="40" height="100" as="geometry" />
@@ -425,6 +428,12 @@
         </mxCell>
         <mxCell id="CUlQ0DefaD_lUuv8uN2p-165" value="Game Development" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="490.00374149659865" y="1655.5" width="127" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CUlQ0DefaD_lUuv8uN2p-168" value="Animals" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="478.3537414965986" y="1155.5" width="127" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CUlQ0DefaD_lUuv8uN2p-169" value="Intro to Anthro Art" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710.0037414965986" y="1155.5" width="127" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
