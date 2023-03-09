@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T18:47:33.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="oqFl5f5wdW2CoPBYMzZz" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T18:48:03.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="I5GIRk71N3sLWgVTP1SQ" version="21.0.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="793" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -411,7 +411,7 @@
         <mxCell id="CUlQ0DefaD_lUuv8uN2p-155" value="Intro to 3D Art" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="690.0037414965986" y="1455.5" width="127" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CUlQ0DefaD_lUuv8uN2p-157" value="Shader Programming" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="CUlQ0DefaD_lUuv8uN2p-157" value="Shaders in Houdini" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="940.2537414965986" y="1555.5" width="127" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CUlQ0DefaD_lUuv8uN2p-158" value="Computer Graphics I" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
@@ -434,6 +434,9 @@
         </mxCell>
         <mxCell id="CUlQ0DefaD_lUuv8uN2p-169" value="Intro to Anthro Art" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="710.0037414965986" y="1155.5" width="127" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CUlQ0DefaD_lUuv8uN2p-170" value="2D Animation" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690.0037414965986" y="1555.5" width="127" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
