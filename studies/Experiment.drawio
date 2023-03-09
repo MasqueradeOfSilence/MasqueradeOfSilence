@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T18:15:30.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="yFWuO9CSr9EdX6mCzRbU" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T18:18:54.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="vSQw7OMezzXHiTBJ1kE2" version="21.0.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="793" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -388,14 +388,10 @@
         <mxCell id="CUlQ0DefaD_lUuv8uN2p-148" value="Figure Drawing I" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="478.3537414965986" y="1055.5" width="127" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CUlQ0DefaD_lUuv8uN2p-149" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#0C343D;" edge="1" parent="1" source="90" target="CUlQ0DefaD_lUuv8uN2p-148">
+        <mxCell id="CUlQ0DefaD_lUuv8uN2p-152" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#0C343D;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="397" y="1080" as="sourcePoint" />
-            <mxPoint x="470" y="1080" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="450" y="981" />
-              <mxPoint x="450" y="1081" />
-            </Array>
+            <mxPoint x="420" y="1080" as="sourcePoint" />
+            <mxPoint x="480" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
