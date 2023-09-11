@@ -10,10 +10,10 @@ I am the president of the Theme Park Engineering and Design club at my universit
 
 # Current progress in M.S. 
 
-- Goal is to finish in 2023, ideally by April. 
+- Goal is to finish in December 2023. 
 - Implemented a fluid solver using the Marker and Cell Method.  
 - Implemented a second fluid solver using MLS-MPM in Unity using NiallTL's Incremental MPM tutorial.
-- Now exploring applications of the MLS-MPM method to low-density foam. 
+- Now exploring applications of the MLS-MPM method to low-density foam, using a new method, Foam Fraction Flow. 
 
 # Personal Work and Project List
 
