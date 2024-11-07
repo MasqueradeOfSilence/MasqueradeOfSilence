@@ -2,7 +2,7 @@
 
 Computer graphics programmer, with strong secondary interests in cybersecurity, web/mobile/game development, and industrial controls for the themed entertainment industry. I majored in Computer Science with an emphasis in Animation, and double minored in Creative Writing and Mathematics.
 
-I am currently working towards my master's degree in Computer Science. My primary research interest is computational fluid simulation and foam.
+I have recently completed my master's degree in Computer Science. My primary research interest is computational fluid simulation and foam.
 
 I have worked in software engineering, web development, mobile app development, visual effects, networking and tech support, and computer science research. 
 
