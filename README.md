@@ -8,13 +8,6 @@ I have worked in software engineering, web development, mobile app development, 
 
 I am the president of the Theme Park Engineering and Design club at my university. I have also worked in visual effects on three student films and as a TD (tech artist) on one industry film, Trolls Band Together. 
 
-# Current progress in M.S. 
-
-- Goal is to finish in April 2024. 
-- Implemented a fluid solver using the Marker and Cell Method.  
-- Implemented a second fluid solver using MLS-MPM in Unity using NiallTL's Incremental MPM tutorial.
-- Now exploring applications of the MLS-MPM method to low-density foam, using a new method, Foam Fraction Flow. 
-
 # Personal Work and Project List
 
 - I am currently reworking this. I believe in supplementing formal education with MOOCs, self-study, certifications, and personal projects. 
