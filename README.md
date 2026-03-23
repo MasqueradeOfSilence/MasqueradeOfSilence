@@ -4,7 +4,7 @@ Computer graphics programmer, with strong secondary interests in cybersecurity, 
 
 I have recently completed my master's degree in Computer Science. My primary research interest is computational fluid simulation and foam.
 
-I have worked in software engineering, web development, mobile app development, visual effects, networking and tech support, and computer science research. 
+I have worked in software engineering, web development, mobile app development, visual effects, GIS, networking and tech support, and computer science research. 
 
 I was the president of the Theme Park Engineering and Design club at my university and was also in the Cybersecurity Student Association. I have also worked in visual effects on three student films and as a TD (tech artist) on one industry film, Trolls Band Together. 
 
